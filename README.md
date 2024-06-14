@@ -1,4 +1,4 @@
-About client:\
+About the client:\
 The client is an ecommerce retailer with great brand value in India. They mainly sell footwear and accessories for men, women and kids. 
 
 Business Problem:\
