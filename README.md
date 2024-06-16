@@ -1,3 +1,6 @@
+Overview:\
+This project was done in 2 parts. In the first part of the project, I was acting as a Sales Analyst and in the 2nd part, I was acting as Web Analyst. 
+
 About the client:\
 The client is an ecommerce retailer with great brand value in India. They mainly sell footwear and accessories for men, women and kids. 
 
