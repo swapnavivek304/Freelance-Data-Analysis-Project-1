@@ -1,3 +1,4 @@
+# Date: January, 2024 - May, 2024
 Overview:\
 This project was done in 2 parts. In the first part of the project, I was acting as a Sales Analyst and in the 2nd part, I was acting as Web Analyst. 
 
