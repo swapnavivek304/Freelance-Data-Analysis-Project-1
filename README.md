@@ -37,7 +37,7 @@ Conclusion\
 Prepared a detailed video presentation on the report generated in Microsoft Power BI and shared that with the client.
 
 Result\
-The client was extremely happy at the findings, provided recommendation in LinkedIn and later informed me that the insights helped them to increase customer base by 25% and net profit by 30%.
+The client was extremely happy at the findings, provided recommendation in LinkedIn and later informed me that the insights helped them to increase customer base by 25% and net profit by 30%. Also, around 40% of website visitors could be converted to potential customers.
 
 Skills
 Google Analytics (GA4)
